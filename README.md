@@ -48,15 +48,15 @@ flowchart LR
 
 **Risk dashboard** — catalog overview and items ranked by risk
 
-![Risk dashboard](images/dashboard.png)
+![Risk dashboard](images/images/dashboard.png)
 
 **Risk detail** — the critical factors behind an item's risk
 
-![Risk detail](images/risk-detail.png)
+![Risk detail](images/images/risk-detail.png)
 
 **PDF report** — shareable summary of items at high risk
 
-![PDF report](images/pdf-report.png)
+![PDF report](images/images/pdf-report.png)
 
 ## Engineering highlights
 
